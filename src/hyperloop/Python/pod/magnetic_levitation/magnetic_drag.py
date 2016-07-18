@@ -11,7 +11,7 @@ class MagDrag(Component):
     Params
     ------
     vel : float
-        Desired velocity of the pod. Default value is 335.
+        Desired velocity of the pod. Default value is 350.
     track_res : float
         Resistance of the track. Default value is 3.14e-4.
     track_ind : float
